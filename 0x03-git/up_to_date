@@ -1,1 +1,2 @@
-#!/bin/bashup_to_date
+#!/bin/bash
+echo "The school is open!"
